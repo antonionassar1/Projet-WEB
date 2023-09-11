@@ -1,0 +1,76 @@
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+}
+
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+}
+
+.footer{
+  background-color:#ffee00;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: #ffee00 !important;
+  color:black;
+}
+
+address{
+  font-size:80%;
+  margin:0px;
+  color:#0f0f0f;
+}
+
+.navbar-dark {
+  background-color: #0f0f0f;
+  color:#0f0f0f;
+}
+
+.card-style{
+  width: 90%;
+  
+}
+
+#cart-total {
+  width: 20
+px
+;
+  height: 20
+px
+;
+  background: #2b4cd7;
+  background-image: initial;
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: rgb(0, 0, 0);
+  border-radius: 50%;
+  padding: 5
+px
+;
+  position: absolute;
+  top: -5
+px
+;
+  right: -5
+px
+;
+  z-index: 2;
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+  line-height: 9px;
+}
